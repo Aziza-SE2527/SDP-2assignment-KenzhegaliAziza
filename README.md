@@ -1,6 +1,7 @@
 # SDP-2assignment-KenzhegaliAziza
 
 Project Purpose
+
 This project is a Java logistics application that demonstrates the integration of two creational design patterns. It uses the Factory Method pattern to manage road and sea delivery logistics,and the Abstract Factory pattern to render matching UI components (buttons and checkboxes) for Windows or macOS platforms.Both patterns run together in the same program without hardcoding concrete classes into the client logic.
 
 
