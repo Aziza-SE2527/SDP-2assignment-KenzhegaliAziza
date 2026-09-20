@@ -32,9 +32,15 @@ Using an IDE (Recommended):
 Sample Run 
 
 Delivery mode (ROAD or SEA): ROAD
+
 UI platform (WINDOWS or MACOS): WINDOWS
+
 Delivery mode: ROAD
+
 UI platform: WINDOWS
+
 Rendering Windows button
+
 Rendering Windows checkbox
+
 Truck delivers laboratory equipment to Aktau warehouse by road.
